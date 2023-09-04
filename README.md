@@ -5,5 +5,5 @@ This repository includes a thorough data-informed approach into handling NHS rea
 
 Files included are:
 
-A Jupyter Notebook
-A technical report
+- A Jupyter Notebook
+- A technical report
